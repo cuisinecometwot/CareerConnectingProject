@@ -68,9 +68,7 @@ background-size: cover;
 
             $query = "SELECT add_emp ('".$email."', '".$password."') AS generate";
             $result = pg_query($conn, $query) or die();
-            $query = "INSERT INTO employer(email) VALUES ('$email')";
-            $add = pg_query($conn, $query);
-            if ($result && $add){
+            if ($result){
                 header("refresh:5; url=signin.php");
                 echo '<script type="text/javascript">
                         window.onload=function(){ 
@@ -91,9 +89,7 @@ background-size: cover;
 
             $query = "SELECT add_user ('".$email."', '".$password."') AS generate";
             $result = pg_query($conn, $query) or die();
-            $query = "INSERT INTO jobseeker(email) VALUES ('$email')";
-            $add = pg_query($conn, $query);
-            if ($result && $add){
+            if ($result){
                 header("refresh:5; url=signin.php");
                 echo '<script type="text/javascript">
                         window.onload=function(){ 

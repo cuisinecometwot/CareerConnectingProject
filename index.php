@@ -176,12 +176,12 @@
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item bg-light rounded p-4">
                         <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                        <p>Bạn Đức rất đẹp trai! Vote 5*!</p>
+                        <p>Vote 5* cho bạn Duke!</p>
                         <div class="d-flex align-items-center">
                             <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
                                 <h5 class="mb-1">Yuduke Nguyen</h5>
-                                <small>Cyb3rG33k</small>
+                                <small>Outstanding Antagonist</small>
                             </div>
                         </div>
                     </div>
@@ -191,7 +191,7 @@
                         <div class="d-flex align-items-center">
                             <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
-                                <h5 class="mb-1">Huy Quần Hoa</h5>
+                                <h5 class="mb-1">Gia Huy</h5>
                                 <small>Profession</small>
                             </div>
                         </div>

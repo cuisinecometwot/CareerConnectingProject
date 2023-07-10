@@ -1,6 +1,6 @@
 # Career Connecting
 
-This project is a Recruitment Agency website. The platform offers valuable services to both Job Seekers and Employers, facilitating their interaction in the job market.
+This project implements a Recruitment Agency website. The platform offers valuable services to both Job Seekers and Employers, facilitating their interaction in the job market.
 
 For Job Seekers, the website provides many features, including the ability to search for available job opportunities, submit job applications, and engage in self-promotion activities to increase attention for their profile.
 
@@ -17,6 +17,8 @@ The purposes of this project are as follows:
 Language: HTML, CSS, PHP, Javascript
 
 DBMS: PostgreSQL
+
+Host Server: Apache2
 
 We cordially invite you to explore the demo of our website at [http://yutokutech.id.vn]. Please keep in mind that the website is still undergoing active development and may not showcase its full potential.
 
